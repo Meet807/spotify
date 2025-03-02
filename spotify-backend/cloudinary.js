@@ -15,3 +15,5 @@ const connectCloudinary = () => {
 };
 
 export default connectCloudinary;
+
+//added comment
